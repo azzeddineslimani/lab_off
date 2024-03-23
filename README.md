@@ -1,6 +1,7 @@
 # lab_off
 Documentation and resources for my home-lab, sharing my wins/failures and aha moments with you.<br />
-Lab0: Visibility<br />
+Lab000: Setting up the Lab environnement
+Lab001: Visibility<br />
 	- Installing and configuring Grafana/Prometheus<br />
 	- Setting up the network on EVE-NG<br />
 	- Configuring basic connectivity to the network elements<br />
