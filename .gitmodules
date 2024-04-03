@@ -1,0 +1,3 @@
+[submodule "L001-Network-automation/ansible"]
+	path = L001-Network-automation/ansible
+	url = https://github.com/azzeddineslimani/ansible.git
